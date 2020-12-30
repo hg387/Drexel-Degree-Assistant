@@ -4,9 +4,9 @@
 
 The web app is targeted towards potential Drexel CCI graduate students. Students need a flexible way to create a master’s program that fits their academic and professional goals. This tool will help students envisage the different combination of certificates that they can take to form a full master’s degree at CCI. 
 
-The application is hosted on  https://ibrahimkamal7.github.io/Drexel-Master-Degree-Assistant/#/
+The application is hosted on  https://hg387.github.io/Drexel-Degree-Assistant/#/
 
-The source code can be found at https://github.com/ibrahimkamal7/Drexel-Master-Degree-Assistant
+The source code can be found at https://github.com/hg387/Drexel-Degree-Assistant/tree/master
 
 Use any of the user info provided in the database section for signing in.
 
